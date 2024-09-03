@@ -1,1 +1,3 @@
-# old_dc_photos
+old datacenter photos, before on-prem -> AWS move.  
+
+
